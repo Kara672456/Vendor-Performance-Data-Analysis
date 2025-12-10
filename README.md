@@ -40,7 +40,6 @@ The notebook also includes basic data-quality checks and exploratory data analys
 
 ## 📈 Key Visuals
 
-> Replace the image file names/paths below with the ones in your repo (e.g. `images/figure1_counts.png`).
 
 ### 1. Vendor & Brand Frequency
 <img width="905" height="373" alt="image" src="https://github.com/user-attachments/assets/f08bc2d4-c60e-4007-b2fd-99c621405f7b" />
@@ -88,8 +87,6 @@ Donut chart showing that the **top 10 vendors account for ~66%** of total purcha
 ---
 
 ### 6. Profit Margin Comparison (Top vs Low Vendors)
-
-![Figure 6 – CI Comparison: Top vs Low Vendors (Profit Margin)](images/figure6_ci_top_vs_low.png)
 
 Compares profit margin distributions and 95% confidence intervals:
 
